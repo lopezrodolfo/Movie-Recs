@@ -54,3 +54,7 @@ March 12, 2020
 ## Note
 
 This is a basic implementation of collaborative filtering. For production use, consider using more advanced techniques and optimizing for larger datasets.
+
+## Acknowledgments
+
+Professor John Glick wrote all test scripts.
